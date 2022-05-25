@@ -1,0 +1,93 @@
+<templateSet group="user">
+  <template name="php" value="&lt;?php $END$ ?&gt;" description="php template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="url" value="Yii::$app-&gt;urlManager-&gt;createUrl(['$END$site/index'])" description="urlManager" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="=" value="&lt;?= $END$ ?&gt;" description="echo template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="pr" value="print_r($END$);" description="print_r" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pub" value="public function $END$()&#10;{&#10;    &#10;}" description="public function Controller" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="if" value="&lt;?php if() : ?&gt;&#10;$END$&#10;&lt;?php endif; ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="foreach" value="&lt;?php foreach( as ) : ?&gt;&#10;$END$&#10;&lt;?php endforeach; ?&gt;" description="for html" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="fphp" value="foreach( as $v) {&#10;    $END$&#10;}" description="foreach PHP" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="yii" value="Yii::$app-&gt;" description="application" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="load" value="$model-&gt;load(Yii::$app-&gt;request-&gt;post())" description="form controller load" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="setflash" value="Yii::$app-&gt;session-&gt;setFlash('$END$');" description="set flash" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pre" value="echo &quot;&lt;pre&gt;&quot;;&#10;print_r($model);&#10;echo &quot;&lt;/pre&gt;&quot;;&#10;exit;" description="print model" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="con" value="console.log($END$)" description="console log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="activeform" value="&lt;?php $form = ActiveForm::begin(['id' =&gt; 'form-reserve-1', 'fieldConfig' =&gt; ['options' =&gt; ['tag' =&gt; false]], 'options' =&gt; ['class' =&gt; 'form send-data']]) ?&gt;&#10;&lt;?= $form-&gt;field($model, 'email', ['template' =&gt; &quot;{input}&quot;])-&gt;textInput(['placeholder' =&gt; &quot;E-mail&quot;, 'type' =&gt; 'email', 'class' =&gt; '']) ?&gt;&#10;&lt;?= Html::submitButton('Отправить', ['class' =&gt; &quot;btn&quot;]) ?&gt;&#10;&lt;?php ActiveForm::end() ?&gt;" description="php form" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="dropdownlist" value="&lt;?php&#10;    $items = ArrayHelper::map($model_array, 'id', 'name');&#10;    $params = [&#10;        'prompt' =&gt; '---',&#10;        'class' =&gt; 'np-select',&#10;        'options' =&gt; [&#10;            $selected =&gt; ['Selected' =&gt; true],&#10;        ],&#10;    ];&#10;?&gt;&#10;&lt;?= $form-&gt;field($model, 'name', ['template' =&gt; &quot;{input}&quot;])-&gt;dropDownList($items, $params) ?&gt;" description="print dropdownlist with params" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="on" value="$('body').on('click', '$END$', function(e) {&#10;    e.preventDefault();&#10;    &#10;});" description="on event" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ajax" value="$.ajax({&#10;    url: form.attr('action'),&#10;    type: 'POST',&#10;    data: data,&#10;    success: function (res) {&#10;        return false;&#10;    },&#10;    error: function () {&#10;        alert('Error!');&#10;    }&#10;});" description="ajax code" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="get" value="$.get('url', {data: data), function(res) {&#10;    console.log(res);&#10;    $END$&#10;});" description="appends get reauest" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

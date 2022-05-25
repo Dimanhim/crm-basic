@@ -1,0 +1,343 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ea7046e7-a837-4d6d-a8c7-a76c80dc7146" name="Wildcactus" url="http://wildcactus.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="718d5cf8-c4cb-4587-9131-4979473ee5b1" name="Avicredit" url="http://avicredit.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="81434475-2910-41cf-93e1-dce667423bc8" name="vkladovka.local" url="http://vkladovka.stavtime.ru">
+        <fileTransfer host="j649859.myjino.ru" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e1119ec8-f709-4baa-8dd3-9836aaf40ee1" name="Egs-group" url="http://egs-group.local">
+        <fileTransfer host="77.222.40.132" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c967f099-472e-42cf-9dfc-b26d53a6d508" name="ecoplant.local" url="http://ecoplant.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="370fb5b1-89c1-4613-84ee-b727a38f7405" name="Geodol" url="http://geodol.local">
+        <fileTransfer host="global-ms.de" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="40b5bf7c-22e1-487d-8865-7f89814e0395" name="http://svami.onetouch.ru/" url="http://svami.onetouch.ru/">
+        <fileTransfer host="vps4091.vps.host.ru" port="22" rootFolder="/var/www2/svami.onetouch.ru/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d5b85937-6e42-46c5-ae27-97a61a490932" name="Score" url="http://score.local">
+        <fileTransfer host="j649859.myjino.ru" port="21" rootFolder="/dimas1202.stavtime.ru">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c9225c08-4a23-483c-afc7-5da36173e285" name="Onetouch" url="http://onetouch.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="0c98def0-9745-4719-885f-a44423bade4e" name="Ugmk-clinic" url="http://ugmk.local">
+        <fileTransfer host="94.137.226.14" port="6822" rootFolder="/var/www/renov.ugmk-clinic.ru" accessType="SFTP">
+          <option name="port" value="6822" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a6a0f7fd-01ea-40fe-bbd2-bfc6f891f2a9" name="grandles.local" url="http://77.222.40.8">
+        <fileTransfer host="77.222.40.8" port="21" rootFolder="/cp_amber-haus_ru/public_html">
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d0b54b3e-9d14-4f38-8f0c-e320f59ff02b" name="Onetouch.test" url="http://onetouch.madeinmed.ru">
+        <fileTransfer host="31.184.252.96" port="21">
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="35cb0f43-f0e8-43a2-ae83-a9ee428446ac" name="Autopiter" url="http://92.255.91.102">
+        <fileTransfer host="92.255.91.102" port="22" rootFolder="/var/www/html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="85e75fe0-c009-424c-b82d-28a6f7274aed" name="Paradiz" url="http://paradiz.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e3c6ac25-2cac-45be-81b1-394e9e25b1aa" name="paradiz.yii" url="http://paradiz.vps.testinmed.ru/">
+        <fileTransfer host="paradiz.vps.testinmed.ru" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="408a1b9d-b999-4a02-8cae-bb7c4b22b650" name="tricolor.landing" url="http://tricolor.landing">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="48e49141-ba07-4856-af36-5a86dd91965d" name="tricolor.yii" url="http://tricolor.yii">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="008415ae-0db7-4755-b6b7-45f6236cbfb3" name="tricolor.yii (1)" url="http://tricolor.yii">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="afede1d2-666a-4ca4-b1bb-6ebc93e9799f" name="onetouch.new" url="http://onetouch-new.testinmed.ru">
+        <fileTransfer host="31.184.252.96" port="21" rootFolder="/public_html">
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="fea5858b-3152-4d74-a311-d38840556d35" name="new-onetouch.local" url="http://new-onetouch.local">
+        <fileTransfer host="31.184.252.96" port="21">
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="737a3f78-e77b-4f47-8a49-6e00f771f7e4" name="old-onetouch.local" url="http://old-onetouch.local">
+        <fileTransfer host="31.184.252.96" port="21" rootFolder="/public_html">
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="eac200bd-d59c-48c4-a444-30a9eadd867e" name="actual-onetouch.local" url="http://actual-onetouch.local">
+        <fileTransfer host="195.2.77.108" port="22" rootFolder="/var/www2/svami.onetouch.ru/www" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="16689b52-b0dc-4224-920c-ea6586c97588" name="yii2.local" url="http://yii2.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="72c0c20d-9072-412b-8fa3-ee43e527589c" name="dostup-spb.copy" url="http://dostup-spb.copy">
+        <fileTransfer host="77.222.40.132" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="130122ef-360e-486f-a8f1-18feb66d3205" name="Ortodom" url="http://ortodom.local">
+        <fileTransfer host="vh278.timeweb.ru" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="156582fc-250f-4ec9-872b-8b3ff5b107b8" name="flora.local" url="http://flora.local">
+        <fileTransfer host="5.101.51.249" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="672fe969-f9df-43f9-91a3-84b405966166" name="Rosmotors" url="http://rosmotors.local">
+        <fileTransfer host="31.184.252.96" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e4b29bd6-8ff9-4ff5-baaf-b7c1451e7a0e" name="Link" url="http://link.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="4f571e2e-e1f8-4965-a653-87b8c1619aea" name="racketclub.local" url="http://racketclub.local">
+        <fileTransfer host="5.101.51.249" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="42442f9e-1923-408b-8301-426ec359d903" name="gostec.local" url="http://gostec.local">
+        <fileTransfer host="gostecprz.ru" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d2d21708-d0b1-4a01-999f-80e9a132f708" name="ortodom-spb.local" url="http://ortodom-spb.local">
+        <fileTransfer host="vh278.timeweb.ru" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b625b398-ca8a-464a-8d71-8e138ddbeea7" name="element.local" url="http://element.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="ed92079b-8e61-4c33-913a-b447dcbd4dc5" name="Element" url="http://element.local">
+        <fileTransfer host="77.222.61.130" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f8e3f43d-347a-4b2d-aae6-bb116b93dafc" name="amber.local" url="http://amber.local">
+        <fileTransfer host="31.184.252.96" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e4040547-7a49-413c-9c92-fa60b813dcc0" name="Amber" url="http://amber.local">
+        <fileTransfer host="31.184.252.96" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1afeea4f-0b5b-47bb-b601-7e0be4b7525c" name="hudozhnik.local" url="http://hudozhnik.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="fe593712-3f7a-4465-86c3-b1be97c3a309" name="Hudozhnik" url="http://hudozhnik.local">
+        <fileTransfer host="5.101.152.87" port="21" rootFolder="/hudozhnik.school">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b13dce28-ea8a-421a-863f-875e90e5b050" name="Hudozhnik (1)" url="http://hudozhnik.local">
+        <fileTransfer host="5.101.152.87" port="21" rootFolder="/hudozhnik.school">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f8115719-3114-4f50-a223-55c2abe28d80" name="stavtime.local" url="https://stavtime.ru">
+        <fileTransfer host="j649859.myjino.ru" port="21" rootFolder="/stavtime.ru">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="93008c25-b370-4a29-9d2e-76e5605e2d39" name="React" url="http://react-web">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="5885a98e-af63-42c5-b070-ef3772ef82d4" name="cp.amber-haus.local" url="http://cp.amber-haus.local">
+        <fileTransfer host="77.222.40.8" port="21" rootFolder="/cp_amber-haus_ru/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1af2e934-7c8b-4d61-97a6-6a48da2b757d" name="ChiliLab" url="http://chiliLab.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="5fc2416e-bb5e-452b-a09a-a08d63beb9ee" name="code" url="http://code">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="00678048-36dc-445a-aaad-61df628edc83" name="Vetlaba" url="http://vetlaba.local">
+        <fileTransfer host="77.222.40.7" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cb26e729-2fa4-482a-800b-8425204d811d" name="Cheb" url="http://blog.cheb">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="2e4a7802-b645-443c-be77-1fb9f0d501d2" name="cheb.pro" url="http://cheb.pro">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="a252033a-ef83-416b-ac46-0be2e2fbc563" name="New-vetlaba" url="http://new.vetlaba">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="fbbd088e-71bb-4e50-bc21-6eb694bfab3a" name="Vue" url="http://vue.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="cb632d0e-0382-4b4a-82d7-c99c2ec48215" name="Forms2.hudozhnik" url="http://forms.hudozhnik">
+        <fileTransfer host="mailhuol.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="59bb418d-e620-4cdb-b2b6-5e35d8246701" name="Vue (1)" url="http://vue">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="9de53849-fd48-4266-86fa-3fe05af7769b" name="Jino forms" url="http://jino.forms.hudozhnik">
+        <fileTransfer host="j649859.myjino.ru" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9b96e9be-91a9-43c4-9beb-0f564536f1db" name="medinmed-onetouch" url="http://medinmed-onetouch.local">
+        <fileTransfer host="5.101.51.249" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="67841e1d-54f0-4e37-b68f-cc33aeaadb03" name="Adekvatno" url="http://adekvatno.local">
+        <fileTransfer host="5.101.51.249" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a1c5d169-4ceb-44af-86b4-07da85caa4a5" name="Ec" url="http://ec.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b010be12-f933-470a-8775-918f43e7ca0d" name="Admin" url="http://admin.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="4d3caacf-7a26-4540-8cb2-2640d8562e43" name="quiz.local" url="http://quiz.local">
+        <fileTransfer host="j649859.myjino.ru" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2561b2ab-3f50-4497-bcfb-3c9d54d83563" name="Pano" url="http://pano.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="035f6b54-b115-48eb-8646-decfe9aeeac3" name="Pano Test" url="http://pano-test.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="842a2c7c-65a3-4ace-94d2-b653ce2f0644" name="Widget Word" url="http://widget-word.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="d55d1091-de2f-499f-99bb-c7e214710d01" name="Quiz 2 Onetouch" url="http://quiz-2.local">
+        <fileTransfer host="j649859.myjino.ru" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2acd82b1-6891-4850-ba14-c408fc22c980" name="crm-basic" url="http://crm-basic.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
