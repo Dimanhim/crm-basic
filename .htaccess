@@ -1,0 +1,9 @@
+DirectoryIndex /web/index.php
+RewriteEngine On
+RewriteCond %{REQUEST_FILE} !-f
+RewriteCond %{REQUEST_FILE} !-l
+RewriteCond %{REQUEST_URI} !^/web [NC]
+RewriteRule ^(.+)$ /web/$1 [L]
+
+php_value memory_limit 5000M
+php_value max_execution_time 900
