@@ -338,6 +338,9 @@
       <webServer id="2acd82b1-6891-4850-ba14-c408fc22c980" name="crm-basic" url="http://crm-basic.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e2099a43-7ef5-4ef4-9035-34225a464af7" name="MapSpaceFilter" url="http://map-space.filter">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
