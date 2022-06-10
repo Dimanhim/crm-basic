@@ -5,6 +5,7 @@
       <mapping pattern="jquery" type="JavaScript" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="API GoogleSheet" type="PLAIN_TEXT" />
+      <mapping pattern="project_data_provider" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
