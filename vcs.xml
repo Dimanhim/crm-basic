@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/Dimanhim/shooting.imp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Dimanhim/shooting.yii.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\OpenServer\domains\Shooting" />
