@@ -341,6 +341,14 @@
       <webServer id="e2099a43-7ef5-4ef4-9035-34225a464af7" name="MapSpaceFilter" url="http://map-space.filter">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f3d0e986-db95-4392-9f12-fe9a83d98356" name="Quiz3" url="http://quiz-3.local">
+        <fileTransfer host="j649859.myjino.ru" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
