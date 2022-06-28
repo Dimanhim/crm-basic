@@ -120,7 +120,7 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="72c0c20d-9072-412b-8fa3-ee43e527589c" name="dostup-spb.copy" url="http://dostup-spb.copy">
-        <fileTransfer host="77.222.40.132" port="21">
+        <fileTransfer host="45.131.41.146" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions passiveMode="true" />
           </advancedOptions>
