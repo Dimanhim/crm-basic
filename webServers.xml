@@ -16,7 +16,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="e1119ec8-f709-4baa-8dd3-9836aaf40ee1" name="Egs-group" url="http://egs-group.local">
-        <fileTransfer host="77.222.40.132" port="21">
+        <fileTransfer host="45.131.41.146" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions passiveMode="true" />
           </advancedOptions>
