@@ -350,8 +350,11 @@
         </fileTransfer>
       </webServer>
       <webServer id="a23941d5-d2a8-4a7a-96fc-a6ed89a8e3c5" name="Obgoni" url="http://obgoni.local">
-        <fileTransfer host="investa.beget.tech" port="22" accessType="SFTP">
-          <option name="port" value="22" />
+        <fileTransfer host="investa.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
