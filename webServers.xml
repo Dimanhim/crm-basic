@@ -358,7 +358,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="e91d8327-cb0c-4833-8738-a301848e6348" name="Quiz-4" url="http://quiz-4.local">
-        <fileTransfer host="5.101.51.249" port="21" rootFolder="/public_html">
+        <fileTransfer host="77.222.62.237" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions passiveMode="true" />
           </advancedOptions>
