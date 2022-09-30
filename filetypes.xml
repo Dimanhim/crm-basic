@@ -4,6 +4,7 @@
       <mapping pattern="translate" type="Ini" />
       <mapping pattern="jquery" type="JavaScript" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping pattern="error_log(1)" type="PLAIN_TEXT" />
       <mapping pattern="API GoogleSheet" type="PLAIN_TEXT" />
       <mapping pattern="project_data_provider" type="PLAIN_TEXT" />
       <mapping pattern="common,js" type="PLAIN_TEXT" />
@@ -14,6 +15,7 @@
       <mapping ext="4" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
