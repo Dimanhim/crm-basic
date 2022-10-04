@@ -90,7 +90,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="put" value="file_put_contents('info-log.txt', print_r($END$, true).&quot;\n&quot;, FILE_APPEND);" description="file_put_contents" toReformat="false" toShortenFQNames="true">
+  <template name="put" value="file_put_contents('info-log.txt', ' - '.print_r($END$, true).&quot;\n&quot;, FILE_APPEND);" description="file_put_contents" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
