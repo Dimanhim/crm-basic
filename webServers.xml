@@ -368,6 +368,14 @@
       <webServer id="bd08a87a-7483-4818-8a46-bcadf4e01829" name="Quiz 5" url="http://quiz-5.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="eb82a319-1265-4862-97ac-ff635d05291c" name="quiz-5.local" url="http://quiz-5.local">
+        <fileTransfer host="j649859.myjino.ru" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
