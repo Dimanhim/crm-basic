@@ -376,6 +376,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="930501f5-7db4-4722-936f-96e2bd1e04d0" name="oleynik.local" url="http://oleynik.local">
+        <fileTransfer host="vh378.timeweb.ru" port="21" rootFolder="/doctoroleynik.ru/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
