@@ -384,6 +384,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="3d6b730f-568f-4b28-bd71-fdaac4ea4d31" name="quiz-6.local" url="http://quiz-6.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
