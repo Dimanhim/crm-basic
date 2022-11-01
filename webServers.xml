@@ -392,6 +392,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="4131e8f3-e8f1-464d-95c9-85e466ce29da" name="altermed" url="http://altermed.local">
+        <fileTransfer host="5.101.51.249" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
