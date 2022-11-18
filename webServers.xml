@@ -400,6 +400,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="b3f06b09-4ee7-40b2-8797-143d702453c4" name="Quiz-1" url="http://quiz-1.local">
+        <fileTransfer host="j649859.myjino.ru" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
