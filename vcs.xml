@@ -90,8 +90,12 @@
           <option name="url" value="https://github.com/Dimanhim/stav_shop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.adm.selectel.org/m/c/112593/projects/rnova-widgets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\OpenServer\domains\CRM" />
+    <option name="cloneParentDir" value="D:\OpenServer\domains\Rnova" />
   </component>
 </application>
