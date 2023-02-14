@@ -113,6 +113,9 @@
       </webServer>
       <webServer id="eac200bd-d59c-48c4-a444-30a9eadd867e" name="actual-onetouch.local" url="http://actual-onetouch.local">
         <fileTransfer host="195.2.77.108" port="21" rootFolder="/var/www2/svami.onetouch.ru/www">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
