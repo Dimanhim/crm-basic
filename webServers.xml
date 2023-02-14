@@ -112,11 +112,11 @@
         </fileTransfer>
       </webServer>
       <webServer id="eac200bd-d59c-48c4-a444-30a9eadd867e" name="actual-onetouch.local" url="http://actual-onetouch.local">
-        <fileTransfer host="195.2.77.108" port="21" rootFolder="/var/www2/svami.onetouch.ru/www">
+        <fileTransfer host="195.2.77.108" port="22" rootFolder="/var/www2/svami.onetouch.ru/www" accessType="SFTP">
           <advancedOptions>
             <advancedOptions passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="16689b52-b0dc-4224-920c-ea6586c97588" name="yii2.local" url="http://yii2.local">
