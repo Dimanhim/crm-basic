@@ -419,6 +419,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="0cf3f6e1-0ba3-473b-b4ac-8bb7ff642e6f" name="WeddingSpb" url="http://wedding-spb.local">
+        <fileTransfer host="77.222.62.121" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
