@@ -106,8 +106,12 @@
           <option name="url" value="https://github.com/Dimanhim/kozmeya.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Dimanhim/stavtime.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\OpenServer\domains\Kozmeya" />
+    <option name="cloneParentDir" value="D:\OpenServer\domains\CRM" />
   </component>
 </application>
