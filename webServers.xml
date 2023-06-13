@@ -261,7 +261,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="cb26e729-2fa4-482a-800b-8425204d811d" name="Cheb" url="http://blog.cheb">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer host="" port="21">
+          <option name="port" value="21" />
+        </fileTransfer>
       </webServer>
       <webServer id="2e4a7802-b645-443c-be77-1fb9f0d501d2" name="cheb.pro" url="http://cheb.pro">
         <fileTransfer port="0" accessType="LOCAL" />
