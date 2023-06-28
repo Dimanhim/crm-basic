@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="translate" type="Ini" />
       <mapping pattern="jquery" type="JavaScript" />
+      <mapping pattern="_client_promocode" type="PHP" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="CommentButton.vue" type="PLAIN_TEXT" />
       <mapping pattern="error_log(1)" type="PLAIN_TEXT" />
