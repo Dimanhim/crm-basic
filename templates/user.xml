@@ -95,7 +95,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="log" value="\Yii::$app-&gt;infoLog-&gt;add('', $END$);" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="\Yii::$app-&gt;infoLog-&gt;add('', $END$);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
