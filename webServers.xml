@@ -429,6 +429,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="f25351f4-168a-4f62-b164-87dc846abffe" name="Website.local" url="http://website.local">
+        <fileTransfer host="j649859.myjino.ru" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
