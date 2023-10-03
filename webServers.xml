@@ -302,7 +302,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="67841e1d-54f0-4e37-b68f-cc33aeaadb03" name="Adekvatno" url="http://adekvatno.local">
-        <fileTransfer host="5.101.51.249" port="21" rootFolder="/public_html">
+        <fileTransfer host="77.222.40.105" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions passiveMode="true" />
           </advancedOptions>
