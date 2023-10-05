@@ -5,11 +5,11 @@
       <mapping pattern="jquery" type="JavaScript" />
       <mapping pattern="_client_promocode" type="PHP" />
       <mapping pattern="promo" type="PLAIN_TEXT" />
-      <mapping pattern="CommentButton.vue" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="error_log(1)" type="PLAIN_TEXT" />
       <mapping pattern="API GoogleSheet" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="CommentButton.vue" type="PLAIN_TEXT" />
       <mapping pattern="project_data_provider" type="PLAIN_TEXT" />
       <mapping pattern="common,js" type="PLAIN_TEXT" />
       <mapping pattern="adm" type="PLAIN_TEXT" />
