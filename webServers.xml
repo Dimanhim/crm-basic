@@ -437,6 +437,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="e8580df8-91a8-4b28-b70c-46c39bd8e065" name="Ortodom_copy" url="http://ortodom.copy">
+        <fileTransfer host="vh278.timeweb.ru" port="21" rootFolder="/copy">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
