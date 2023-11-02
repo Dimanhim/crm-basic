@@ -142,8 +142,12 @@
           <option name="url" value="git@git.madeformed.ru:MadeForMed/Bionica.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.madeformed.ru/MadeForMed/Alfa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\OpenServer\domains\Other\Bionica" />
+    <option name="cloneParentDir" value="D:\OpenServer\domains\Other\Alfa" />
   </component>
 </application>
