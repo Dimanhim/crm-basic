@@ -445,6 +445,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c3e0f31e-d683-4b28-af1d-297038332428" name="Task-Test" url="http://task-test.backend">
+        <fileTransfer host="77.222.62.237" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
