@@ -453,6 +453,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="88fbb0f3-b989-4271-a161-4a083a855e8b" name="Rnova" url="http://188.68.220.94">
+        <fileTransfer host="188.68.220.94" port="22" rootFolder="/var/www/dima-t-dev-office.rnova.org" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
