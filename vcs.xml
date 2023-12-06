@@ -162,8 +162,12 @@
           <option name="url" value="git@git.madeformed.ru:MadeForMed/madeinmed-task-backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.adm.selectel.org/m/c/112593/projects/office.rnova.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\OpenServer\domains\Madeinmed" />
+    <option name="cloneParentDir" value="D:\OpenServer\domains\Rnova" />
   </component>
 </application>
