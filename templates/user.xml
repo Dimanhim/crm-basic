@@ -75,7 +75,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="on" value="$('body').on('click', '$END$', function(e) {&#10;    e.preventDefault();&#10;    &#10;});" description="on event" toReformat="false" toShortenFQNames="true">
+  <template name="on" value="$(document).on('click', '$END$', function(e) {&#10;    e.preventDefault();&#10;    &#10;});" description="on event" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
