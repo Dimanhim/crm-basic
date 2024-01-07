@@ -461,6 +461,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d3ce3170-662f-4cae-88c1-f170f50baff7" name=" Geodol" url="http://geodol.local">
+        <fileTransfer host="77.222.62.237" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
