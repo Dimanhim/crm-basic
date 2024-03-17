@@ -469,6 +469,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="32d96d98-0d96-4424-a253-1b34d2473177" name="AccountingDev" url="http://accounting_dev.yii">
+        <fileTransfer host="j649859.myjino.ru" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
