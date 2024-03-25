@@ -477,6 +477,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="0052354a-98c4-466c-b366-bc9b48d32af7" name="Balance" url="http://balance.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
