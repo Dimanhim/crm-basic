@@ -198,9 +198,13 @@
           <option name="url" value="https://github.com/Dimanhim/accounting_prod.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.adm.selectel.org/112593/projects/rnova-widgets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\OpenServer\domains\CRM\Accounting" />
+    <option name="cloneParentDir" value="D:\OpenServer\domains\Rnova" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
