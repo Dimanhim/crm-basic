@@ -18,6 +18,7 @@
       <mapping pattern="project_data_provider" type="PLAIN_TEXT" />
       <mapping pattern="common,js" type="PLAIN_TEXT" />
       <mapping pattern="log-api-totalData" type="PLAIN_TEXT" />
+      <mapping pattern="bx-api-DealListlog" type="PLAIN_TEXT" />
       <mapping pattern="adm" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
