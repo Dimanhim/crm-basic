@@ -206,9 +206,13 @@
           <option name="url" value="git@git.madeformed.ru:MadeForMed/bionica-bx24.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.madeformed.ru:MadeForMed/Vision_tinkoff.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\OpenServer\domains\Other\Bionica" />
+    <option name="cloneParentDir" value="D:\OpenServer\domains\Vision" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
