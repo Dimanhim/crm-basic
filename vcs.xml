@@ -216,7 +216,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\OpenServer\domains\Other" />
+    <option name="cloneParentDir" value="D:\OpenServer\domains\Other\People" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
