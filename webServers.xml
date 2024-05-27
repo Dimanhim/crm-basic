@@ -480,6 +480,9 @@
       <webServer id="0052354a-98c4-466c-b366-bc9b48d32af7" name="Balance" url="http://balance.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c9e874eb-983b-436a-aa03-21a8362080c1" name="MapSpace" url="http://map-space.filter">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
