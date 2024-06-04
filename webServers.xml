@@ -483,6 +483,9 @@
       <webServer id="c9e874eb-983b-436a-aa03-21a8362080c1" name="MapSpace" url="http://map-space.filter">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="4bd72196-2d78-4d4a-94fd-008c6334607a" name="Alfa-signature" url="http://alfa-signature">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
