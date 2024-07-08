@@ -230,9 +230,13 @@
           <option name="url" value="git@git.madeformed.ru:MadeForMed/rnova-payment.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Dimanhim/stvpechati.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\OpenServer\domains\RnovaPayment" />
+    <option name="cloneParentDir" value="D:\OpenServer\domains\Trafaret" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
