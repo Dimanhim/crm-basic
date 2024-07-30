@@ -5,7 +5,7 @@
       <mapping pattern="jquery" type="JavaScript" />
       <mapping pattern="_client_promocode" type="PHP" />
       <mapping pattern="promo" type="PLAIN_TEXT" />
-      <mapping pattern="CommentButton.vue" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.accesses" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
@@ -14,11 +14,12 @@
       <mapping pattern=".env.accounts" type="PLAIN_TEXT" />
       <mapping pattern="API GoogleSheet" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="CommentButton.vue" type="PLAIN_TEXT" />
       <mapping pattern="project_data_provider" type="PLAIN_TEXT" />
       <mapping pattern="common,js" type="PLAIN_TEXT" />
       <mapping pattern="log-api-totalData" type="PLAIN_TEXT" />
       <mapping pattern="translated" type="PLAIN_TEXT" />
+      <mapping pattern=".env.client" type="PLAIN_TEXT" />
       <mapping pattern="bx-api-DealListlog" type="PLAIN_TEXT" />
       <mapping pattern="adm" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
@@ -30,6 +31,7 @@
       <mapping ext="2" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
