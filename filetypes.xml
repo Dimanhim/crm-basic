@@ -13,6 +13,7 @@
       <mapping pattern="0a2cac726c6b4c8c220304555d3cdf40" type="PLAIN_TEXT" />
       <mapping pattern="error_log(1)" type="PLAIN_TEXT" />
       <mapping pattern=".env.accounts" type="PLAIN_TEXT" />
+      <mapping pattern="bx-mis_appointments" type="PLAIN_TEXT" />
       <mapping pattern="API GoogleSheet" type="PLAIN_TEXT" />
       <mapping pattern="bx-contact-log" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
