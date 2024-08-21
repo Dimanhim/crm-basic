@@ -139,7 +139,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="156582fc-250f-4ec9-872b-8b3ff5b107b8" name="flora.local" url="http://flora.local">
-        <fileTransfer host="5.101.51.249" port="21" rootFolder="/public_html">
+        <fileTransfer host="77.222.61.7" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions passiveMode="true" />
           </advancedOptions>
