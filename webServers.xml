@@ -486,6 +486,14 @@
       <webServer id="4bd72196-2d78-4d4a-94fd-008c6334607a" name="Alfa-signature" url="http://alfa-signature">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="997189d8-96db-4a01-86d4-e043af1f2262" name="MpcSpb" url="http://mpcspb.local">
+        <fileTransfer host="77.222.62.180" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
