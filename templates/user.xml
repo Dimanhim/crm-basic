@@ -80,7 +80,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ajax" value="$.ajax({&#10;    url: form.attr('action'),&#10;    type: 'POST',&#10;    data: data,&#10;    success: function (res) {&#10;        return false;&#10;    },&#10;    error: function () {&#10;        alert('Error!');&#10;    }&#10;});" description="ajax code" toReformat="false" toShortenFQNames="true">
+  <template name="ajax" value="$.ajax({&#10;    url: form.attr('action'),&#10;    type: 'POST',&#10;    data: data,&#10;    success: function (res) {&#10;        console.log('request res', res);&#10;        if(res.error == 0) {&#10;             $END$&#10;        }&#10;    },&#10;    error: function (e) {&#10;        console.log('Error!', e);&#10;    }&#10;});" description="ajax code" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
