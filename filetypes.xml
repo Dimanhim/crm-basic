@@ -30,6 +30,7 @@
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="tyii::$app-&gt;request-&gt;post()xt" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="4" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
