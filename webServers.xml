@@ -494,6 +494,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="e3dfce5a-3f28-4c13-98db-cae8ad8642a7" name="Basic_clean" url="http://basic-clean.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
