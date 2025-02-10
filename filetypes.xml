@@ -6,7 +6,7 @@
       <mapping pattern="_client_promocode" type="PHP" />
       <mapping pattern="promo" type="PLAIN_TEXT" />
       <mapping pattern="bx-mis_patient" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="common,js" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.accesses" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
@@ -17,9 +17,9 @@
       <mapping pattern="API GoogleSheet" type="PLAIN_TEXT" />
       <mapping pattern="bx-contact-log" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern="CommentButton.vue" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="project_data_provider" type="PLAIN_TEXT" />
-      <mapping pattern="common,js" type="PLAIN_TEXT" />
+      <mapping pattern="CommentButton.vue" type="PLAIN_TEXT" />
       <mapping pattern="log-api-totalData" type="PLAIN_TEXT" />
       <mapping pattern="case_3.json" type="PLAIN_TEXT" />
       <mapping pattern="translated" type="PLAIN_TEXT" />
