@@ -6,10 +6,11 @@
       <mapping pattern="_client_promocode" type="PHP" />
       <mapping pattern="promo" type="PLAIN_TEXT" />
       <mapping pattern="bx-mis_patient" type="PLAIN_TEXT" />
-      <mapping pattern="CommentButton.vue" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.accesses" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="db" type="PLAIN_TEXT" />
       <mapping pattern="0a2cac726c6b4c8c220304555d3cdf40" type="PLAIN_TEXT" />
       <mapping pattern="error_log(1)" type="PLAIN_TEXT" />
       <mapping pattern=".env.accounts" type="PLAIN_TEXT" />
@@ -17,7 +18,7 @@
       <mapping pattern="API GoogleSheet" type="PLAIN_TEXT" />
       <mapping pattern="bx-contact-log" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="CommentButton.vue" type="PLAIN_TEXT" />
       <mapping pattern="project_data_provider" type="PLAIN_TEXT" />
       <mapping pattern="common,js" type="PLAIN_TEXT" />
       <mapping pattern="log-api-totalData" type="PLAIN_TEXT" />
@@ -39,6 +40,7 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
