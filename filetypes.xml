@@ -4,30 +4,31 @@
       <mapping pattern="translate" type="Ini" />
       <mapping pattern="jquery" type="JavaScript" />
       <mapping pattern="_client_promocode" type="PHP" />
-      <mapping pattern="promo" type="PLAIN_TEXT" />
-      <mapping pattern="bx-mis_patient" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="4c69cf7289a612116a873835b837c6cf" type="PLAIN_TEXT" />
       <mapping pattern=".env.accesses" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="db" type="PLAIN_TEXT" />
-      <mapping pattern="0a2cac726c6b4c8c220304555d3cdf40" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="API GoogleSheet" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping pattern=".env.client" type="PLAIN_TEXT" />
+      <mapping pattern="CommentButton.vue" type="PLAIN_TEXT" />
       <mapping pattern="error_log(1)" type="PLAIN_TEXT" />
       <mapping pattern=".env.accounts" type="PLAIN_TEXT" />
-      <mapping pattern="bx-mis_appointments" type="PLAIN_TEXT" />
-      <mapping pattern="API GoogleSheet" type="PLAIN_TEXT" />
-      <mapping pattern="bx-contact-log" type="PLAIN_TEXT" />
-      <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern="CommentButton.vue" type="PLAIN_TEXT" />
-      <mapping pattern="project_data_provider" type="PLAIN_TEXT" />
-      <mapping pattern="common,js" type="PLAIN_TEXT" />
-      <mapping pattern="log-api-totalData" type="PLAIN_TEXT" />
-      <mapping pattern="case_3.json" type="PLAIN_TEXT" />
-      <mapping pattern="translated" type="PLAIN_TEXT" />
-      <mapping pattern=".env.client" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="bx-api-DealListlog" type="PLAIN_TEXT" />
-      <mapping pattern="_categories" type="PLAIN_TEXT" />
+      <mapping pattern="bx-mis_appointments" type="PLAIN_TEXT" />
+      <mapping pattern="translated" type="PLAIN_TEXT" />
       <mapping pattern="adm" type="PLAIN_TEXT" />
+      <mapping pattern="bx-mis_patient" type="PLAIN_TEXT" />
+      <mapping pattern="case_3.json" type="PLAIN_TEXT" />
+      <mapping pattern="common,js" type="PLAIN_TEXT" />
+      <mapping pattern="bx-contact-log" type="PLAIN_TEXT" />
+      <mapping pattern="db" type="PLAIN_TEXT" />
+      <mapping pattern="log-api-totalData" type="PLAIN_TEXT" />
+      <mapping pattern="project_data_provider" type="PLAIN_TEXT" />
+      <mapping pattern="0a2cac726c6b4c8c220304555d3cdf40" type="PLAIN_TEXT" />
+      <mapping pattern="promo" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="_categories" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
