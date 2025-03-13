@@ -100,4 +100,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="dlog" value="file_put_contents('/var/www/dima-t-docs.rnova.org/info-log.txt', date('d.m.Y H:i:s').' - '.print_r($END$, true).&quot;\n&quot;, FILE_APPEND);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
