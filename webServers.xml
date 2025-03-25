@@ -500,6 +500,9 @@
       <webServer id="e4ef73a9-1918-4253-ac57-ca2b5f1a1e47" name="WeddingSpb (1)" url="http://wedding-spb.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="85188d64-0173-4390-9366-4324cf266069" name="MpcSpb" url="http://mpc.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
