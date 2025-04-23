@@ -503,6 +503,9 @@
       <webServer id="85188d64-0173-4390-9366-4324cf266069" name="MpcSpb (1)" url="http://mpc.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="fff787bd-fa6b-4fa9-8665-f5df58eab58d" name="admin.mpcspb" url="http://admin.mpcspb.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
