@@ -105,7 +105,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="card" value="&lt;div class=&quot;row&quot;&gt;&#10;        &lt;div class=&quot;col-md-6&quot;&gt;&#10;            &lt;div class=&quot;card&quot;&gt;&#10;                &lt;div class=&quot;card-header&quot;&gt;&#10;                    $END$&#10;                &lt;/div&gt;&#10;                &lt;div class=&quot;card-body&quot;&gt;&#10;                    &#10;                &lt;/div&gt;&#10;            &lt;/div&gt;&#10;        &lt;/div&gt;&#10;    &lt;/div&gt;" shortcut="TAB" toReformat="false" toShortenFQNames="true">
+  <template name="card" value="&lt;div class=&quot;row&quot;&gt;&#10;        &lt;div class=&quot;col-md-6&quot;&gt;&#10;            &lt;div class=&quot;card&quot;&gt;&#10;                &lt;div class=&quot;card-header&quot;&gt;&#10;                    $END$&#10;                &lt;/div&gt;&#10;                &lt;div class=&quot;card-body&quot;&gt;&#10;                    &#10;                &lt;/div&gt;&#10;            &lt;/div&gt;&#10;        &lt;/div&gt;&#10;    &lt;/div&gt;" shortcut="TAB" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
