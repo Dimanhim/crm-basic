@@ -507,7 +507,7 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="0a01c535-e3b9-42a8-826c-fa904a85a4c6" name="Signature" url="http://signature.local">
-        <fileTransfer host="87.228.81.25" port="22" rootFolder="/var/www/html" accessType="SFTP">
+        <fileTransfer host="87.228.81.25" port="22" rootFolder="/var/www/doctab.rnova.org" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
