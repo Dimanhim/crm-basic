@@ -511,6 +511,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="33ec64cb-07d4-45a4-b97d-5f6ae16a5e04" name="Doctab_do_budu" url="http://doctab-do_budu.local">
+        <fileTransfer host="37.140.192.91" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
