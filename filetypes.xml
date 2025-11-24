@@ -12,6 +12,7 @@
       <mapping pattern=".env.client" type="PLAIN_TEXT" />
       <mapping pattern="CommentButton.vue" type="PLAIN_TEXT" />
       <mapping pattern="error_log(1)" type="PLAIN_TEXT" />
+      <mapping pattern="_scheduleList" type="PLAIN_TEXT" />
       <mapping pattern=".env.accounts" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="bx-api-DealListlog" type="PLAIN_TEXT" />
@@ -42,6 +43,7 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
