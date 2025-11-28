@@ -294,6 +294,10 @@
           <option name="url" value="https://github.com/Dimanhim/alfa-doctab.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Dimanhim/signature.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\OpenServer\domains\Rnova" />
