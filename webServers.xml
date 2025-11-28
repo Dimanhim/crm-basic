@@ -519,6 +519,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="6e57f535-b7e2-481c-8aef-ac931b70b65f" name="DoctabPrimemed32" url="http://doctab-primemed32.local">
+        <fileTransfer host="vh348.timeweb.ru" port="21" rootFolder="/doctab.primemed32.ru/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
